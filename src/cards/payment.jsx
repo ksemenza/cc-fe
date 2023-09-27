@@ -1,9 +1,12 @@
 const payment = () => {
+
+  return (
   <div>
     <h3> Purchase Details</h3>
 
     <p> input cc # exp cvv cardOwner </p>
-  </div>;
+    </div>
+  )
 };
 
 export default payment;
